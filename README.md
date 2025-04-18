@@ -114,7 +114,7 @@ Submit your completed notebook by: April 28th 2025
 
 ### Submission:
 
-Upload your `.ipynb` file or `.zip` with `.py` file and assets to [Instructor to fill in submission method/platform]
+Upload your `.ipynb` file or `.zip` with `.py` file and assets to classes.pace.edu 
 
 End of instructions.
 
