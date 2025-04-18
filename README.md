@@ -101,9 +101,9 @@ import tensorflow_datasets as tfds
   - Code for each step
   - Proper comments and markdown cells
   - Results and plots
-- Screenshot or explanation of the confusion matrix
-- Short reflection (5-6 lines): What you learned, what was challenging
-
+  - Screenshot or explanation of the confusion matrix- Short reflection (5-6 lines): What you learned, what was challenging
+- PowerPoint Presentation
+- 2-Pager Summary report 
 ---
 
 ### Deadline:
